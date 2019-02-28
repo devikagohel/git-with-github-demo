@@ -8,4 +8,10 @@ Disallow:
 #This line has been hhtp
 # some line
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0532ac9bf103636f79e2eaf6771f979c632a4eae
 #add line http
+
+# this line demo ssh protocol
